@@ -1,0 +1,5 @@
+7. Git init and git add 
+
+We are working on these two command. 
+
+Save and commit are separate step.
